@@ -5,4 +5,5 @@ Example GIT repository
 ## Author
 
 Priscilla Spencer
+
 Student
